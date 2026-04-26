@@ -1,7 +1,8 @@
 # Bookmark-Cleaner-Safari
 # מנקה סימניות כפולות לספארי 
 - Bookmark Cleaner for Safari 🚀
-
+יש לך מלא סימניות ובטעות סנכרנת אותם לכרום או אדג' ואז הכל כפול ובודדים שבאמת צריך?
+קבל את זה
 **A modern, elegant macOS utility to keep your Safari bookmarks clean and organized.**
 
 ---
