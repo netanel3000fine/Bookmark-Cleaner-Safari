@@ -21,7 +21,7 @@ Bookmark Cleaner is a native macOS application built with SwiftUI, designed to h
 ## 🛠 Installation
 
 ### Download
-You can download the latest version from the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases) page.
+You can download the latest version from the [Releases](https://github.com/netanel3000fine/Bookmark-Cleaner-Safari/releases) page.
 
 ### Manual Installation
 1. Download the `Bookmark Cleaner.dmg`.
@@ -31,25 +31,6 @@ You can download the latest version from the [Releases](https://github.com/YOUR_
 > [!NOTE]
 > Since this app is independently developed, you may need to right-click the app and select **Open** the first time you run it to bypass macOS security checks.
 
-## 🚀 Building from Source
-
-If you want to build the app yourself, you'll need a Mac with Swift installed.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
-   ```
-
-2. Run the build script:
-   ```bash
-   ./build.sh
-   ```
-
-3. To create a DMG:
-   ```bash
-   ./create_dmg.sh
-   ```
 
 ## 📜 License
 This project is for personal use. Feel free to explore the code!
