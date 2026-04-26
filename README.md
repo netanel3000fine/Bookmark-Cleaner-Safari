@@ -1,5 +1,5 @@
 # Bookmark-Cleaner-Safari
-# מנקה סימניות לספארי 
+# מנקה סימניות כפולות לספארי 
 - Bookmark Cleaner for Safari 🚀
 
 **A modern, elegant macOS utility to keep your Safari bookmarks clean and organized.**
@@ -10,6 +10,9 @@
 
 Bookmark Cleaner is a native macOS application built with SwiftUI, designed to help you scan and manage your Safari bookmarks with ease. It features a stunning "Liquid Glass" interface inspired by modern macOS aesthetics.
 
+
+<img width="1391" height="852" alt="Screenshot 2026-04-26 at 21 00 24" src="https://github.com/user-attachments/assets/959b9ef6-883a-4109-9345-bdd6be2547c5" />
+
 ## ✨ Features
 
 - **Safari Integration**: Directly scans your Safari bookmarks file.
@@ -17,6 +20,9 @@ Bookmark Cleaner is a native macOS application built with SwiftUI, designed to h
 - **Liquid Glass Design**: Beautiful transparency and blurred backgrounds.
 - **Customizable Themes**: Choose from several color presets (Default, Purple, Yellow, Red, Blue, Orange).
 - **Settings**: Toggle "Liquid Glass" effects on and off to suit your preference.
+
+
+<img width="562" height="424" alt="image" src="https://github.com/user-attachments/assets/2fd173d2-fc83-4b25-960e-3297743544a2" />
 
 ## 🛠 Installation
 
