@@ -1,5 +1,5 @@
 # Bookmark-Cleaner-Safari
-# מנקה הסימניות 
+# מנקה סימניות לספארי 
 - Bookmark Cleaner for Safari 🚀
 
 **A modern, elegant macOS utility to keep your Safari bookmarks clean and organized.**
