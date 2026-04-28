@@ -24,8 +24,7 @@ Bookmark Cleaner is a native macOS application built with SwiftUI, designed to h
 - **Customizable Themes**: Choose from several color presets (Default, Purple, Yellow, Red, Blue, Orange).
 - **Settings**: Toggle "Liquid Glass" effects on and off to suit your preference.
 
-
-<img width="562" height="424" alt="image" src="https://github.com/user-attachments/assets/2fd173d2-fc83-4b25-960e-3297743544a2" />
+<img width="862" height="764" alt="image" src="https://github.com/user-attachments/assets/87935e67-7620-4a54-8008-de734642f9da" />
 
 ## 🛠 Installation
 
