@@ -14,8 +14,7 @@
 
 Bookmark Cleaner is a native macOS application built with SwiftUI, designed to help you scan and manage your Safari bookmarks with ease. It features a stunning "Liquid Glass" interface inspired by modern macOS aesthetics.
 
-
-<img width="1391" height="852" alt="Screenshot 2026-04-26 at 21 00 24" src="https://github.com/user-attachments/assets/959b9ef6-883a-4109-9345-bdd6be2547c5" />
+<img width="1412" height="852" alt="image" src="https://github.com/user-attachments/assets/c2e9cf59-5044-4364-98e9-d9e4f6fe6e62" />
 
 ## ✨ Features
 
